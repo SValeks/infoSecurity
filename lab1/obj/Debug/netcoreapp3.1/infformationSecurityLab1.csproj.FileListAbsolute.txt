@@ -1,0 +1,16 @@
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\bin\Debug\netcoreapp3.1\infformationSecurityLab1.exe
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\bin\Debug\netcoreapp3.1\infformationSecurityLab1.deps.json
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\bin\Debug\netcoreapp3.1\infformationSecurityLab1.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\bin\Debug\netcoreapp3.1\infformationSecurityLab1.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\bin\Debug\netcoreapp3.1\infformationSecurityLab1.dll
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\bin\Debug\netcoreapp3.1\infformationSecurityLab1.pdb
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.Form1.resources
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.dll
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.pdb
+C:\Users\Дмитрий\source\repos\infformationSecurityLab1\obj\Debug\netcoreapp3.1\infformationSecurityLab1.genruntimeconfig.cache
