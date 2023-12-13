@@ -1,0 +1,16 @@
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\bin\Debug\netcoreapp3.1\lab3.exe
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\bin\Debug\netcoreapp3.1\lab3.deps.json
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\bin\Debug\netcoreapp3.1\lab3.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\bin\Debug\netcoreapp3.1\lab3.dll
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\bin\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.Form1.resources
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.dll
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.pdb
+C:\Users\Дмитрий\source\repos\inf_sec_Sasha\lab3\obj\Debug\netcoreapp3.1\lab3.genruntimeconfig.cache
